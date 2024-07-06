@@ -93,6 +93,16 @@
       "tags": []
     },
     {
+      "id": "rule-53dee1f3-a78d-4fc6-8d10-1eef6e813097",
+      "fileUrl": "ShortX-看雪论坛签到_v1.0.txt",
+      "title": "看雪论坛签到 v1.0",
+      "description": "必须抓包看雪论坛安卓app",
+      "versionCode": 1,
+      "updateTimeMillis": 1720216574740,
+      "author": "Muort",
+      "tags": []
+    },
+    {
       "id": "rule-9e40dd65-a271-4fb8-8153-ab4bbebbb893",
       "fileUrl": "ShortX-验证码提取.txt",
       "title": "验证码提取",
